@@ -7,3 +7,7 @@
 - 🤔 I’m looking for job as backend developer, or Jr Frontend developer (I'm looking to improve my CSS/SCSS skills.)
 - 👯 I’m looking to collaborate with you in web development as Backend or Frontend really interested to learn new technologies and improve my abilities 
 - ⚡ Fun fact: I really REALLY enjoy reading about psychology, LOL.
+
+
+### My Github Stats
+[![Jafjdev's github stats](https://github-readme-stats.vercel.app/api?username=jafjdev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
