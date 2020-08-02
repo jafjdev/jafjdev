@@ -10,4 +10,4 @@
 
 
 ### My Github Stats
-[![Jafjdev's github stats](https://github-readme-stats.vercel.app/api?username=jafjdev&show_icons=true&theme=radical&count_private=true)
+![Jafjdev's github stats](https://github-readme-stats.vercel.app/api?username=jafjdev&show_icons=true&theme=radical&count_private=true)
