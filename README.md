@@ -11,13 +11,13 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on my Degree (aka: Thesis);
-- 🌱 I’m currently learning React and improving my CSS skills); 
-- 👯 I’m looking to collaborate with you in web development.;
-- 🤔 Ask me about Designg Patterns, Java - Spring, its my main skill at this moment, but i'm also up to help with PHP, Angular, SQL and Firebase!;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun fact: I really REALLY enjoy reading about psychology, LOL;
-- 📫 How to reach me: jafjdev@gmail.com;
+- 👨🏽‍💻 I’m currently working on my Degree (aka: Thesis).
+- 🌱 I’m currently learning React and improving my CSS skills).
+- 👯 I’m looking to collaborate with you in web development.
+- 🤔 Ask me about Designg Patterns, Java - Spring, its my main skill at this moment, but i'm also up to help with PHP, Angular, SQL and Firebase!.
+- 💬 Ask me about anything, I am happy to help.
+- ⚡️ Fun fact: I really REALLY enjoy reading about psychology, LOL.
+- 📫 How to reach me: jafjdev@gmail.com.
 
 **Languages and Tools:** 
 
