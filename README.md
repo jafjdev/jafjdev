@@ -11,7 +11,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on my Degree (aka: Thesis).
-- 🌱 I’m currently learning React and improving my CSS skills).
+- 🌱 I’m ALWAYS learning :)
 - 👯 I’m looking to collaborate with you in web development.
 - 🤔 Ask me about Designg Patterns, Java - Spring used to be my main skill, now im mostly working with Javascript -- Typescript technologies, but i'm also up to help with PHP, Mongo, SQL and Firebase!.
 - 💬 AMA anything, I am happy to help.
