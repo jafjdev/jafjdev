@@ -1,4 +1,4 @@
-## Hi, I'm José Cedeño, a Developer 🚀 from Venezuela. <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+## Hi, I'm José Cedeño, a Developer 🚀 from Spain. <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jafjdev)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josejecr/)
